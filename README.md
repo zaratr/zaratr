@@ -1,4 +1,4 @@
-![Profile-Header](https://github.com/ThompsonBethany01/ThompsonBethany01/blob/main/images/Profile_Header.gif?raw=true)  
+<!---![Profile-Header](https://github.com/ThompsonBethany01/ThompsonBethany01/blob/main/images/Profile_Header.gif?raw=true)  --->
 
 ## *About Me*
 <details>
@@ -36,6 +36,6 @@ My personal interests include reading a good science fiction book, listening to 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonBethany01" width=400/>
 </a>  
 
-![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=ThompsonBethany01.ThompsonBethany01)
+<!--- ![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=ThompsonBethany01.ThompsonBethany01) --->
 
-![Quote](https://github.com/ThompsonBethany01/ThompsonBethany01/blob/main/images/Quote.gif?raw=true)
+<!--- ![Quote](https://github.com/ThompsonBethany01/ThompsonBethany01/blob/main/images/Quote.gif?raw=true) --->
