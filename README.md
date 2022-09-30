@@ -37,13 +37,10 @@ My personal interests include listening to upcoming musci artist, space focused 
 </a>  
 
 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zaratr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/navaneethkm004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaratr&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/zaratr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaratr&amp;layout=compact" alt="Top Langs"></a></p></div>  
 
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/github-user-contribution.svg)
 <div align="center">
