@@ -1,5 +1,6 @@
-![Profile-Header](https://github.com/zaratr/zaratr/blob/main/Public/Profile_Header.gif?raw=true) 
-
+<div align="center">
+<img src="https://github.com/zaratr/zaratr/blob/main/Public/greetings.gif" align="center" style="width: 100%" />
+</div> 
 ## *About Me*
 <details>
   <summary>Click to expand!</summary>
