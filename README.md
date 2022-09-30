@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Public/banner3a.gif" align="center" style="width: 100%" />
+<img src="Public/banner3.gif" align="center" style="width: 100%" />
 </div> 
 
 ## *About Me*
@@ -46,7 +46,7 @@ My personal interests include listening to upcoming musci artist, space focused 
 <div align="center"> -->
 
  <div align="center">
-<img src="Public/banner4a.gif" align="center" style="width: 100%" />
+<img src="Public/banner4.gif" align="center" style="width: 100%" />
 </div> 
 
  
