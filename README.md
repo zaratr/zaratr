@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/zaratr/zaratr/blob/main/Public/banner2.gif" align="center" style="width: 100%" />
+<img src="Public/banner3.gif" align="center" style="width: 100%" />
 </div> 
 
 ## *About Me*
@@ -42,9 +42,14 @@ My personal interests include listening to upcoming musci artist, space focused 
 <div align="center">
 <p><a href="https://github.com/zaratr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaratr&amp;layout=compact" alt="Top Langs"></a></p></div>  
 
-![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/github-user-contribution.svg)
-<div align="center">
-  
+<!-- ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/github-user-contribution.svg)
+<div align="center"> -->
+
+ <div align="center">
+<img src="Public/banner3.gif" align="center" style="width: 100%" />
+</div> 
+
+ 
 <br/>  
 <img src="https://komarev.com/ghpvc/?username=zaratr&&style=flat-square" align="center" />
 </div> 
