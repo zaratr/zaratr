@@ -69,7 +69,7 @@ My personal interests include listening to upcoming musci artist, space focused 
 
  
 <br/>  
-<!-- img src="https://komarev.com/ghpvc/?username=zaratr&&style=flat-square" align="center" -- />
+<!-- img src="https://komarev.com/ghpvc/?username=zaratr&&style=flat-square" align="center" -->
 </div> 
 <br/> 
 
