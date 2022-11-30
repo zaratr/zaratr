@@ -64,12 +64,12 @@ My personal interests include listening to upcoming musci artist, space focused 
 <div align="center"> -->
 
  <div align="center">
-<img src="Public/banner4.gif" align="center" style="width: 100%" />
+<!--img src="Public/banner4.gif" align="center" style="width: 100%" /> -->
 </div> 
 
  
 <br/>  
-<!-- img src="https://komarev.com/ghpvc/?username=zaratr&&style=flat-square" align="center" -->
+< img src="https://komarev.com/ghpvc/?username=zaratr&&style=flat-square" align="center" />
 </div> 
 <br/> 
 
