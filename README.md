@@ -18,7 +18,7 @@ My personal interests include listening to upcoming musci artist, space focused 
 </details>
 
 ## *Connect With Me*
-<a href="mailto:zarater.raul@gmail.com">Send Me an Email</a> | [LinkedIn](https://www.linkedin.com/in/raul-zarate-a85497343/)](https://www.linkedin.com/in/raul-zarate-a85497343/)
+<a href="mailto:zarater.raul@gmail.com">Send Me an Email</a> | [LinkedIn](https://www.linkedin.com/in/raul-zarate-a85497343/)
 
 ## *Portfolios*
 <table>
